@@ -1,5 +1,5 @@
-# deviceId
-## Test application to get the user's device ID  
+# Device Id
+Test application to get the user's device ID  
 
 
 ## Site where I got the return references for the different types of devices
